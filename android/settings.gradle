@@ -1,0 +1,3 @@
+rootProject.name = 'Potira'
+
+include ':app'
